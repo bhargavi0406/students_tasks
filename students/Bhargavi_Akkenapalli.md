@@ -2,14 +2,14 @@
 
 ---
 ## 📌 Personal & Contact Details
-* **Full Name:** [Your Full Name]
-* **Roll Number / College ID:** [e.g. 22241A66XX]
+* **Full Name:**Akkenapalli Bhargavi
+* **Roll Number / College ID:** [e.g. 22241A6603]
 * **College:** Gokaraju Rangaraju Institute of Engineering & Technology (GRIET)
 * **Department:** Computer Science & Engineering (AIML)
-* **Email (Gmail):** [your.name@gmail.com]
-* **Mobile Number:** [+91 XXXXXXXXXX]
+* **Email (Gmail):** [akkenapallibharghavi@gmail.com]
+* **Mobile Number:** [+91 9951166806]
 * **LinkedIn Profile:** [https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)
-* **GitHub Profile:** [https://github.com/your-username](https://github.com/your-username)
+* **GitHub Profile:** [https://github.com/bhargavi0406](https://github.com/your-username)
 ---
 ## 🛠️ Technical Skills & Proficiencies
 * **Programming Languages:** Python, C++, SQL, JavaScript
@@ -17,4 +17,4 @@
 * **Developer Tools:** Git, GitHub, Cursor AI, Ollama, Docker, Linux
 ---
 ## 🎯 Career Aspiration & Bio
-[Write 2-3 sentences about your career goals in AI/ML.]
+My career goal is to build a successful career in Artificial Intelligence and Machine Learning by developing strong technical and problem-solving skills. I aim to work on real-world AI/ML projects, continuously learn emerging technologies, and eventually contribute to innovative solutions that create meaningful impact.
