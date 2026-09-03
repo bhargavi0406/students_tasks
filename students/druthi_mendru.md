@@ -2,9 +2,9 @@
 
 
 
-\- \*\*Name:\*\* Druthi Mendru
+Name: Druthi Mendru
 
-\- \*\*Program:\*\* AIML
+Program: AIML
 
-\- \*\*GitHub:\*\* \[druthimendru](https://github.com/druthimendru)
+GitHub: \[druthimendru](https://github.com/druthimendru)
 
