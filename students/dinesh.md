@@ -1,15 +1,16 @@
-# 👨‍💻 Student Profile: [Cherukuri Dinesh]
+# 👨‍💻 Student Profile: [Dinesh cherukuri ]
 
 ---
 
 ## 📌 Personal & Contact Details
 
 - **Full Name:** [Bandi Keerthi Reddy]
-- **Roll Number / College ID:** 25245A6616
+- **Roll Number / College ID:** 25245a6616
 - **College:** Gokaraju Rangaraju Institute of Engineering & Technology (GRIET)
-- **Department:** Computer Science & Engineering (CSM)
+- **Department:** Computer Science & Engineering (CSDS)
 - **Email (Gmail):** [dineshcherukuri123@gmail.com]
-- **Mobile Number:** [+91  9381189925]
+- **Mobile Number:** [+91 9390208676]
+
 - **GitHub Profile:** [https://github.com/aimaking1818]
 
 ---
