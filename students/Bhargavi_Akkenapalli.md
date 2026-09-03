@@ -1,15 +1,15 @@
-# 👨‍💻 Student Profile: Akula Adithya
+# 👨‍💻 Student Profile: Akkenapalli Bhargavi
 
 ---
 ## 📌 Personal & Contact Details
 * **Full Name:**Akkenapalli Bhargavi
-* **Roll Number / College ID:** [e.g. 22241A6603]
+* **Roll Number / College ID:**24241a6603
 * **College:** Gokaraju Rangaraju Institute of Engineering & Technology (GRIET)
 * **Department:** Computer Science & Engineering (AIML)
-* **Email (Gmail):** [akkenapallibharghavi@gmail.com]
-* **Mobile Number:** [+91 9951166806]
-* **LinkedIn Profile:** [https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)
-* **GitHub Profile:** [https://github.com/bhargavi0406](https://github.com/your-username)
+* **Email (Gmail):**akkenapallibharghavi@gmail.com
+* **Mobile Number:** +91 9951166806
+* **LinkedIn Profile:** [bhargaviakkenapalli04](https://www.linkedin.com/in/bhargaviakkenapalli04)
+* **GitHub Profile:** [bhargavi0406](https://github.com/bhargavi0406)
 ---
 ## 🛠️ Technical Skills & Proficiencies
 * **Programming Languages:** Python, C++, SQL, JavaScript
